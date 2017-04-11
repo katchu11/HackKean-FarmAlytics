@@ -1,0 +1,10 @@
+crop,maxtemp,mintemp,rainamt
+Wheat,75,70,13
+Rice,80,60.8,59
+Corn,65,60,24
+Tomatoes,80,68,55
+Lettuce,65,45,32
+Berries,55,20,38
+Oat,73,69,12
+Apples,80,45,90
+Citrus,100,55,23
